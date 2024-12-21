@@ -4,8 +4,5 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        txt = s.split()
-        length = 0
-        for i in txt[-1]:
-            length+=1
-        return length
+        txt = s.strip().split()
+        return len(txt[-1])
