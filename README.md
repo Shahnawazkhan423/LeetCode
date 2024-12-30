@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
