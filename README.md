@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0066-plus-one) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0118-pascals-triangle) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Trie
 |  |
 | ------- |
@@ -49,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
