@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3723-sum-of-good-numbers](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3723-sum-of-good-numbers) |
 ## Trie
 |  |
 | ------- |
