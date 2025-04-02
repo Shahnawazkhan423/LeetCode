@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3723-sum-of-good-numbers](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
