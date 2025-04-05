@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3709-find-special-substring-of-length-k](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3709-find-special-substring-of-length-k) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0136-single-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
