@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3709-find-special-substring-of-length-k](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3709-find-special-substring-of-length-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
