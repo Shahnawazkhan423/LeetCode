@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
+| [3379-score-of-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3636-check-balanced-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
