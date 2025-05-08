@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0035-search-insert-position) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0035-search-insert-position) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
