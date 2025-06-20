@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0344-reverse-string) |
@@ -126,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0136-single-number) |
 ## Queue
 |  |
