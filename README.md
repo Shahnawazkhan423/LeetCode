@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0520-detect-capital) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
