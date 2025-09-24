@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0392-is-subsequence) |
 | [0961-long-pressed-name](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0961-long-pressed-name) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0283-move-zeroes) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3723-sum-of-good-numbers](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
