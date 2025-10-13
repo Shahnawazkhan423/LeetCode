@@ -1,9 +1,5 @@
-class Solution(object):
-    def reverse(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
+class Solution:
+    def reverse(self, x: int) -> int:
         negative = x<0
         revers = 0
         rang_1 = -2**31
