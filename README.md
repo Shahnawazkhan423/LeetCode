@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
+| [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0392-is-subsequence) |
 | [0961-long-pressed-name](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0961-long-pressed-name) |
+| [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3723-sum-of-good-numbers](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
