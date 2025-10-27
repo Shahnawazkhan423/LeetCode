@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
+| [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
+| [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Simulation
 |  |
