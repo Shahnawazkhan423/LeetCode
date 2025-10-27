@@ -6,8 +6,8 @@ class Solution:
         j = 1 
         while i<j and len(Split)>j:
             if Split[i]==first and Split[j]==second and len(Split)>j+1:
-                third_time = Split[j+1]
-                third.append(third_time)
+                data = Split[j+1]
+                third.append(data)
             i+=1 
             j+=1 
         return third
