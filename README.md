@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0961-long-pressed-name) |
