@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
+| [1031-add-to-array-form-of-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1031-add-to-array-form-of-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
