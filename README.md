@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0961-long-pressed-name) |
 | [1156-occurrences-after-bigram](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1156-occurrences-after-bigram) |
+| [1666-make-the-string-great](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1666-make-the-string-great) |
 | [3379-score-of-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3636-check-balanced-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3709-find-special-substring-of-length-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0020-valid-parentheses) |
+| [1666-make-the-string-great](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1666-make-the-string-great) |
 ## Two Pointers
 |  |
 | ------- |
