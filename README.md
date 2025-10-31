@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
