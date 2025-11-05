@@ -10,6 +10,5 @@ class Solution:
             else:
                 result.append(high)
                 high-=1 
-        if low==high:
-            result.append(high)
+        result.append(high)
         return result 
