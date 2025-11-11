@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Counting
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0011-container-with-most-water) |
 | [0979-di-string-match](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0979-di-string-match) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
