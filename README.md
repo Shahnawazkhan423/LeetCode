@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
+| [1002-find-common-characters](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1002-find-common-characters) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0979-di-string-match) |
+| [1002-find-common-characters](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1002-find-common-characters) |
 | [1156-occurrences-after-bigram](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1666-make-the-string-great](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1666-make-the-string-great) |
 | [3379-score-of-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3379-score-of-a-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0979-di-string-match](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0979-di-string-match) |
+| [1002-find-common-characters](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1002-find-common-characters) |
 | [1031-add-to-array-form-of-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1646-kth-missing-positive-number) |
