@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0455-assign-cookies) |
 | [0961-long-pressed-name](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0979-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 ## Array
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0979-di-string-match) |
 | [1002-find-common-characters](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1002-find-common-characters) |
 | [1031-add-to-array-form-of-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1089-duplicate-zeros](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
