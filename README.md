@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
