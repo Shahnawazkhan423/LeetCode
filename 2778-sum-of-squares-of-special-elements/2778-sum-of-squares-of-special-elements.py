@@ -1,12 +1,10 @@
 class Solution:
     def sumOfSquares(self, nums: List[int]) -> int:
+        n = len(nums)
         Sum = 0
-        Len = len(nums)
-        index = 0 
         for i in range(len(nums)):
-            if i==index:
-                index+=1
-                if Len%index==0 :
-                    sq = nums[i]*nums[i]
-                    Sum+=sq
+            element = nums[i]
+            if n%(i+1)==0:
+                squr = element**2 
+                Sum+=squr 
         return Sum
