@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
