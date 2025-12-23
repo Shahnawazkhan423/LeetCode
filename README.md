@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0383-ransom-note) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0414-third-maximum-number) |
