@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0889-buddy-strings) |
 | [1002-find-common-characters](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1002-find-common-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1002-find-common-characters) |
 | [1031-add-to-array-form-of-integer](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
