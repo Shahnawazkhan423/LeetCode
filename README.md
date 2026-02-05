@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Shahnawazkhan423/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2634-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2951-find-the-peaks) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3723-sum-of-good-numbers](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3723-sum-of-good-numbers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Shahnawazkhan423/LeetCode/tree/master/2951-find-the-peaks) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Shahnawazkhan423/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
